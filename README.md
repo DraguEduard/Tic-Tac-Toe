@@ -1,1 +1,3 @@
-# Tic-Tac-Toe
+"Tic Tac Toe" este un joc clasic de strategie cu doi jucători scris în Java. Obiectivul jocului este de a plasa trei semne la rând, fie pe orizontală, fie pe verticală, fie pe diagonală. Jocul dispune de o interfață intuitivă pentru utilizator și o experiență de joc simplă, ceea ce îl face perfect pentru toate vârstele. Jocul dispune de un adversar AI, astfel încât vă puteți bucura de joc chiar și atunci când nu este nimeni în jur. Jocul ține, de asemenea, evidența victoriilor și a înfrângerilor, astfel încât să puteți vedea cât de bine vă descurcați împotriva AI. Cu codul său curat și designul ușor de utilizat, Tic Tac Toe este o alegere excelentă pentru oricine caută un joc distractiv și provocator.
+
+Aplicatie creata de Dragu Eduard
